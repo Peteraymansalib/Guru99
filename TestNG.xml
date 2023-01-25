@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1" >
+    <test name="Guru99Project" >
+        <classes>
+            <class name="LoginFunction" />
+            <class name="AddingNewCustomer" />
+        </classes>
+    </test>
+</suite>
